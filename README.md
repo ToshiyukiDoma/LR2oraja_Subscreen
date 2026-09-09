@@ -1,5 +1,5 @@
 # LR2oraja Subscreen
-A plugin that makes sense if you have a "Lightning Model" setup on BMS/IIDX station.
+A plugin that makes sense if you have a "Lightning Model" setup on your BMS/IIDX station.
 
 Only tested with: https://github.com/seraxis/lr2oraja-endlessdream
 
