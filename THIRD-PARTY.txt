@@ -1,0 +1,6 @@
+LR2oraja Subscreen: GPL-3.0-or-later. Corresponding addon source accompanies this release in the separate Source archive.
+Game: https://github.com/seraxis/lr2oraja-endlessdream (not bundled).
+SKK-JISYO.L: https://github.com/skk-dev/dict — GPL-2.0-or-later, distributed here under GPL-3.0.
+ASM 9.7.1: BSD-3-Clause, LICENSE-ASM.txt. Included unmodified inside lr2touch.jar.
+Corresponding ASM source: https://repo.maven.apache.org/maven2/org/ow2/asm/asm/9.7.1/asm-9.7.1-sources.jar
+FFmpeg: optional separate installation; https://ffmpeg.org/download.html. No FFmpeg binary is redistributed in this package.
