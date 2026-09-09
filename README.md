@@ -2,6 +2,7 @@
 A plugin that makes sense if you have a "Lightning Model" setup on BMS/IIDX station.
 
 Only tested with: https://github.com/seraxis/lr2oraja-endlessdream
+
 I cannot guarantee if it will work with other LR2oraja forks or variants.
 
 ## Samples:
