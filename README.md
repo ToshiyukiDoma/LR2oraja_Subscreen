@@ -5,6 +5,12 @@ Only tested with: https://github.com/seraxis/lr2oraja-endlessdream
 
 I cannot guarantee if it will work with other LR2oraja forks or variants.
 
+## How to use
+1. Download the thing on the release page: https://github.com/ToshiyukiDoma/LR2oraja_Subscreen/releases
+2. Extract on the same folder location where your LR2oraja application is in.
+3. Run  `Launch LR2Touch.cmd`. It should automatically run on your second screen. Otherwise...
+4. Go to `STYLE` tab, tap on the `DISPLAY` dropdown to select which monitor it will go. You can use your mouse as navigation if you want to use it on your secondary display without touchscreen. But that doesn't make any sense if you're going to use this on a non-touch display but you do you. xd
+
 ## Samples:
 
 <img width="400" alt="01-home" src="https://github.com/user-attachments/assets/80838d54-6cf5-48e7-a5d5-940536dfe992" />
